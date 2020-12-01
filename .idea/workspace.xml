@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="663c409c-ba96-451f-a12c-fef255d65e4a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/package.json" afterDir="false" />
+    <list default="true" id="663c409c-ba96-451f-a12c-fef255d65e4a" name="Default Changelist" comment="Inicial para terceros">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +54,42 @@
       <option name="presentableId" value="Default" />
       <updated>1605649988364</updated>
       <workItem from="1605649993164" duration="204000" />
-      <workItem from="1605650483193" duration="904000" />
+      <workItem from="1605650483193" duration="1065000" />
+      <workItem from="1605651759170" duration="58000" />
     </task>
+    <task id="LOCAL-00001" summary="Inicial para terceros">
+      <created>1605651522073</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605651522073</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inicial para terceros" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicial para terceros" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="247" key="Vcs.Push.Dialog.v2" timestamp="1605651772840">
+      <screen x="0" y="23" width="1920" height="969" />
+    </state>
+    <state x="560" y="247" key="Vcs.Push.Dialog.v2/0.23.1920.969@0.23.1920.969" timestamp="1605651772840" />
   </component>
 </project>
